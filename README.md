@@ -3,7 +3,11 @@
 - reconnecting with that kid who took apart his Apple ][e
 - 🌱 I’m currently learning ml, ai, always marketing
 - 💞️ We're in the 60s of the information age
-- while they sleep, i continue woken to an awe-inspiring world
+- while they sleep, i thrive, to an awe-inspiring world...
+- it`s somewhat isolating
+                                somewhat comforting
+- full-on exciting...
+-                    ...sounds so cliche this subsequent shit so roll dem eyes
 - the problems, the pain, the suffering will shift
 - as those of us awake, not woke ;) -- for clarity -- thanks adhd
 - where was I?
