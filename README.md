@@ -1,25 +1,57 @@
-- 👋 hi, i’m @cpretzinger aka craig
-Ever Feel Like Life's Biggest Moments Are Happening Without You?
+# Craig Pretzinger
 
-You glance up from your screen, realizing you've just lost another hour scrolling through a social feed filled with empty connections. The irony is clear: we're more connected than ever, yet we're drifting further apart. Is this really the future we envisioned?
+**Entrepreneur | Author | Builder | AI Optimist**
 
-I'm Craig Pretzinger, and I believe technology should serve us—not enslave us. As an entrepreneur, bestselling author ("Million Dollar Agency"), and host of "The Insurance Dudes" podcast, I've dedicated my career to leveraging AI and automation to reclaim what we've lost: real human connections, creativity, and genuine experiences.
+I build technology that liberates rather than enslaves. My mission: shift the world from passive consumption to active creation.
 
-My passion lies in building intuitive SaaS platforms and intelligent automations designed not to trap us online, but to liberate our time. Imagine a world where tedious tasks vanish, replaced by moments spent creating art, making music, engaging deeply with loved ones, or exploring passions long set aside.
+---
 
-This isn't some far-fetched fantasy. It's happening right now. Through thoughtfully designed technology, we can shift from passive consumption to active creation, from superficial digital interactions to meaningful relationships.
+## What I Believe
 
-But I can't do this alone.
+Technology should serve humans—not the other way around. The best automations aren't about replacing people; they're about freeing people to do what actually matters: connect, create, and build something meaningful.
 
-Your sponsorship means you're part of a movement that prioritizes human connection and creativity over endless scrolling and digital burnout. Together, we can shape a future where technology empowers—not distracts.
+---
 
-Are you ready to reclaim life's real connections?
+## What I'm Building
 
-Let's make it happen.
+**[Boss Claude](https://github.com/cpretzinger/boss-claude)** - A gamified AI orchestration CLI that turns Claude into a delegating conductor. Because AI should amplify your capabilities, not just answer questions.
 
+**SaaS Platforms & Intelligent Automations** - Tools that help businesses scale without losing their soul. Systems that work *for* you while you sleep.
 
+---
 
-<!---
-cpretzinger/cpretzinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech I Work With
+
+```
+AI/LLMs        Node.js        Automation Pipelines
+PostgreSQL     Redis          Vector Databases
+APIs           Webhooks       Intelligent Agents
+```
+
+---
+
+## Beyond Code
+
+**Author** - *Million Dollar Agency* - A practical guide to building and scaling an agency that doesn't own you.
+
+**Podcast Host** - *The Insurance Dudes* - Conversations about entrepreneurship, technology, and building businesses that matter.
+
+---
+
+## Philosophy
+
+> "I don't get XP for talking. I get XP for shipping."
+
+The best ideas are worthless without execution. I optimize for shipping real things that solve real problems for real people.
+
+---
+
+## Connect
+
+- [The Insurance Dudes Podcast](https://theinsurancedudes.com)
+- [Million Dollar Agency (Book)](https://milliondollaragencybook.com)
+- [Sponsor My Work](https://github.com/sponsors/cpretzinger)
+
+---
+
+*Currently building tools that make AI work for humans, not the other way around.*
