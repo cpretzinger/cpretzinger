@@ -14,7 +14,7 @@ Technology should serve humans—not the other way around. The best automations 
 
 ## What I'm Building
 
-**[Boss Claude](https://github.com/cpretzinger/boss-claude)** - A gamified AI orchestration CLI that turns Claude into a delegating conductor. Because AI should amplify your capabilities, not just answer questions.
+**AEO SEARCH OPTIMIZATION FOR BUSINESSES TO RANK BY DOMAIN-SPECIFIC QUESTIONS THEIR CLIENTS AND PROSPECTS ARE ASKING**
 
 **SaaS Platforms & Intelligent Automations** - Tools that help businesses scale without losing their soul. Systems that work *for* you while you sleep.
 
